@@ -2,11 +2,10 @@
 
 Welcome to the A2Z DSA (Algorithms and Data Structures) repository! This repository is a collection of various algorithms and data structures implemented in different programming languages. Whether you're a beginner looking to learn about fundamental concepts or an experienced developer brushing up on your skills, this repository has something for everyone.
 
-## Contents
 ## Table of Contents
 
-- [Algorithms](#algorithms)
-- [Data Structures](#data-structures)
+- [Algorithms](#Algorithms)
+- [Data Structures](#Data-Structures)
 - [Supported Languages](#languages)
 - [How to Utilize](#how-to-utilize)
 - [Contributions Welcome](#contributions-welcome)
