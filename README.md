@@ -39,8 +39,6 @@ Please follow the repository's code of conduct and contribute high-quality, well
 
 This repository is open-source and available under the MIT License. Feel free to use the code for your projects and educational purposes.
 
-## Contact
 
-If you have any questions or suggestions, feel free to open an issue or reach out to us via email at a2z.dsa@example.com.
 
 Happy coding!
