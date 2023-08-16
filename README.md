@@ -5,7 +5,6 @@ Welcome to the A2Z DSA (Algorithms and Data Structures) repository! This reposit
 # Table of Contents
 
 - [A2Z DSA Repository](#a2z-dsa-repository)
-- [Contents](#contents)
 - [Languages](#languages)
 - [How to Use](#how-to-use)
 - [Contributions](#contributions)
