@@ -10,7 +10,6 @@ Welcome to the A2Z DSA (Algorithms and Data Structures) repository! This reposit
 - [How to Use](#how-to-use)
 - [Contributions](#contributions)
 - [License](#license)
-- [Contact](#contact)
 
 
 - **Algorithms**: Implementations of classic algorithms, ranging from sorting and searching to graph traversal and dynamic programming.
