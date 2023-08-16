@@ -14,7 +14,7 @@ Welcome to the A2Z DSA (Algorithms and Data Structures) repository! This reposit
 
 - **Algorithms**: Implementations of classic algorithms, ranging from sorting and searching to graph traversal and dynamic programming.
 
-- **Data Structures**: Examples of essential data structures like linked lists, stacks, queues, trees, and more.
+- **Data-Structures**: Examples of essential data structures like linked lists, stacks, queues, trees, and more.
 
 ## Languages
 
